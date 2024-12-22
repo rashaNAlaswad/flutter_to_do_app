@@ -32,3 +32,9 @@ This project uses the following dependencies:
 - [timezone](https://pub.dev/packages/timezone)
 - [flutter_timezone](https://pub.dev/packages/flutter_timezone)
 - [app_settings](https://pub.dev/packages/app_settings)
+
+## Video
+
+
+https://github.com/user-attachments/assets/04539115-46b5-443c-b5bb-482b54a720ef
+
